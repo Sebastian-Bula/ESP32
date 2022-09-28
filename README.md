@@ -10,8 +10,11 @@
 - ````git checkout -b NOMBRE```` : Crear rama y trasladarse a esa rama.
 - ````git checkout NOMBRE```` : Trasladarse entre ramas.
 - ````git remote -v```` : Ver los remotos
-- ````git remote````: remotogtiasda
+- ````git remote````: remoto
 
-origin  https://github.com/s3b4sbul4/git_prueba.git (fetch) ->
+# Notas
+Después de hacer cualquier cambio se deben realizar los siguientes pasos:
 
-origin  https://github.com/s3b4sbul4/git_prueba.git (push) -> Lugar de donde se van a guardar los cambios.
+1. Guardara el archivo editado.
+2. Realizar el comando ``git add .``.
+3. Realizar el comando ``git commit`` ó ``git commit -m "MENSAJE"``.
