@@ -1,0 +1,3 @@
+Hola, Soy Sebastian Bula
+La verdad la clase de hoy estuvo super chevere
+Aprendimos demasiado sobre la consola de Git
